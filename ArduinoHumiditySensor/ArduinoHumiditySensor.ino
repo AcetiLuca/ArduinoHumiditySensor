@@ -3,10 +3,6 @@
 #include <DHT.h>
 #include <DHT_U.h>
 
-
-//Programa: Arduino e DHT11 controle de rele por umidita
-//Autor: Arduino e Cia
-
 #include "U8glib.h"
 
 U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE);
